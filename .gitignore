@@ -1,0 +1,11 @@
+.terraform
+plan1.out
+myplan
+plan.out
+checkCredentials.js
+skills-online.json
+terraform.log
+terraform.rc
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
